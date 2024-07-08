@@ -12,7 +12,7 @@ LiliApp no emplea la ninguna información personal.  Tampoco serán enviados nin
 
 ### Cookies
 
-Nuesto aplicativo o utiliza ningún tipo de cookies.
+Nuesto aplicativo no utiliza ningún tipo de cookies.
 
 ### Enlaces a Terceros
 
